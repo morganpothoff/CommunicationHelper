@@ -1,1 +1,2 @@
 # CommunicationHelper
+The purpose of this project is to allow for an easier way for people with communication disabilities preventing them from reading, writing, and speaking. For example, Aphasia is _the loss of ability to understand or express speech, caused by brain damage_, and is one of the disability groups targeted by this project. We hope to acheive this goal through graphical categorizations of images to allow users to easily select an idea or object they wish to communicate.  
